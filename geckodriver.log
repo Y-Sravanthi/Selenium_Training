@@ -1,0 +1,304 @@
+1646405940828	geckodriver	INFO	Listening on 127.0.0.1:55419
+1646405943934	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55420" "-no-remote" "-profile" "C:\\Users\\SRAVAN~1\\AppData\\Local\\Temp\\rust_mozprofileHVPZqd"
+1646405944556	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sravanthi\\AppData\\Local\\Temp\\rust_mozprofileHVPZqd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55420/devtools/browser/84f6b488-b7e4-4677-80ca-51d3920ae8a3
+1646405947537	Marionette	INFO	Listening on port 55426
+1646405947676	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+1646405954942	Marionette	INFO	Stopped listening on port 55426
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646405964088	geckodriver	INFO	Listening on 127.0.0.1:55477
+1646405967195	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55478" "-no-remote" "-profile" "C:\\Users\\SRAVAN~1\\AppData\\Local\\Temp\\rust_mozprofileX9sLJH"
+1646405967631	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sravanthi\\AppData\\Local\\Temp\\rust_mozprofileX9sLJH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55478/devtools/browser/49b9a5fb-b268-4f21-889b-05c7a5a47aca
+1646405970257	Marionette	INFO	Listening on port 55484
+1646405970376	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+1646405999790	Marionette	INFO	Stopped listening on port 55484
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1646406185397	geckodriver	INFO	Listening on 127.0.0.1:55814
+1646406188511	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55815" "-no-remote" "-profile" "C:\\Users\\SRAVAN~1\\AppData\\Local\\Temp\\rust_mozprofileFhFqiW"
+1646406188871	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sravanthi\\AppData\\Local\\Temp\\rust_mozprofileFhFqiW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55815/devtools/browser/3e91b109-1943-4d33-9988-2a3a4e00d5a1
+1646406191563	Marionette	INFO	Listening on port 55822
+1646406191694	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1646406427512	Marionette	INFO	Stopped listening on port 55822
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1646408180164	geckodriver	INFO	Listening on 127.0.0.1:56942
+1646408183249	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56943" "-no-remote" "-profile" "C:\\Users\\SRAVAN~1\\AppData\\Local\\Temp\\rust_mozprofilesIIzN8"
+1646408183606	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sravanthi\\AppData\\Local\\Temp\\rust_mozprofilesIIzN8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56943/devtools/browser/18f760d4-122e-4804-a663-27ba23c7f78d
+1646408186272	Marionette	INFO	Listening on port 56950
+1646408186431	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1646408238870	Marionette	INFO	Stopped listening on port 56950
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1646408309737	geckodriver	INFO	Listening on 127.0.0.1:57103
+1646408312831	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57104" "-no-remote" "-profile" "C:\\Users\\SRAVAN~1\\AppData\\Local\\Temp\\rust_mozprofileMFfuJl"
+1646408313184	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sravanthi\\AppData\\Local\\Temp\\rust_mozprofileMFfuJl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57104/devtools/browser/db72f19a-8ad8-4497-8d14-29f3f0e4827a
+1646408315834	Marionette	INFO	Listening on port 57110
+1646408316027	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1646408374926	Marionette	INFO	Stopped listening on port 57110
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1646408454719	geckodriver	INFO	Listening on 127.0.0.1:57295
+1646408457811	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57296" "-no-remote" "-profile" "C:\\Users\\SRAVAN~1\\AppData\\Local\\Temp\\rust_mozprofileWnkzVE"
+1646408458160	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sravanthi\\AppData\\Local\\Temp\\rust_mozprofileWnkzVE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57296/devtools/browser/ddba4a6f-a826-478a-b6d5-9cacc21f0cb4
+1646408460791	Marionette	INFO	Listening on port 57302
+1646408461000	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1646408519401	Marionette	INFO	Stopped listening on port 57302
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1646408580664	geckodriver	INFO	Listening on 127.0.0.1:57456
+1646408583762	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57457" "-no-remote" "-profile" "C:\\Users\\SRAVAN~1\\AppData\\Local\\Temp\\rust_mozprofilec6onjq"
+1646408584115	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sravanthi\\AppData\\Local\\Temp\\rust_mozprofilec6onjq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57457/devtools/browser/c141abc8-2e0d-4a3e-9ef1-6f09afbc81ba
+1646408586785	Marionette	INFO	Listening on port 57463
+1646408586938	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1646408763079	Marionette	INFO	Stopped listening on port 57463
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1646408934251	geckodriver	INFO	Listening on 127.0.0.1:57722
+1646408937342	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57723" "-no-remote" "-profile" "C:\\Users\\SRAVAN~1\\AppData\\Local\\Temp\\rust_mozprofileyWdSrN"
+1646408937695	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sravanthi\\AppData\\Local\\Temp\\rust_mozprofileyWdSrN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57723/devtools/browser/9c88123a-8ca7-4b57-924c-b75491bb7c6c
+1646408940187	Marionette	INFO	Listening on port 57730
+1646408940526	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1646408966878	Marionette	INFO	Stopped listening on port 57730
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1646409045855	geckodriver	INFO	Listening on 127.0.0.1:57895
+1646409048952	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57896" "-no-remote" "-profile" "C:\\Users\\SRAVAN~1\\AppData\\Local\\Temp\\rust_mozprofilew5tM7S"
+1646409049343	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sravanthi\\AppData\\Local\\Temp\\rust_mozprofilew5tM7S\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57896/devtools/browser/2ba11ed8-4558-458c-a422-8de88159e56e
+1646409051753	Marionette	INFO	Listening on port 57902
+1646409052155	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.flipkart.com"
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1646409412018	Marionette	INFO	Stopped listening on port 57902
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1646409427932	geckodriver	INFO	Listening on 127.0.0.1:58187
+1646409431043	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58188" "-no-remote" "-profile" "C:\\Users\\SRAVAN~1\\AppData\\Local\\Temp\\rust_mozprofile49EKa2"
+1646409431402	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sravanthi\\AppData\\Local\\Temp\\rust_mozprofile49EKa2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58188/devtools/browser/fdc910e7-fa8b-4868-84a7-3a6333c386cc
+1646409433921	Marionette	INFO	Listening on port 58194
+1646409434242	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1646409599123	Marionette	INFO	Stopped listening on port 58194
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646409746909	geckodriver	INFO	Listening on 127.0.0.1:58452
+1646409750005	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58453" "-no-remote" "-profile" "C:\\Users\\SRAVAN~1\\AppData\\Local\\Temp\\rust_mozprofilelv0Gw2"
+1646409750365	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sravanthi\\AppData\\Local\\Temp\\rust_mozprofilelv0Gw2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58453/devtools/browser/b189f8bc-1f03-4f4e-8042-e2bd35d50061
+1646409752924	Marionette	INFO	Listening on port 58459
+1646409753190	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.flipkart.com"
+1646409761359	Marionette	INFO	Stopped listening on port 58459
+1646412770754	geckodriver	INFO	Listening on 127.0.0.1:60885
+1646412773859	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60886" "-no-remote" "-profile" "C:\\Users\\SRAVAN~1\\AppData\\Local\\Temp\\rust_mozprofileO6ExQM"
+1646412774574	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sravanthi\\AppData\\Local\\Temp\\rust_mozprofileO6ExQM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60886/devtools/browser/8c4889b5-bf66-400f-9279-243f7a82c494
+1646412777515	Marionette	INFO	Listening on port 60893
+1646412777581	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.flipkart.com"
+1646412795620	Marionette	INFO	Stopped listening on port 60893
+1646412807812	geckodriver	INFO	Listening on 127.0.0.1:61018
+1646412810926	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61019" "-no-remote" "-profile" "C:\\Users\\SRAVAN~1\\AppData\\Local\\Temp\\rust_mozprofileVQ3DxU"
+1646412811434	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sravanthi\\AppData\\Local\\Temp\\rust_mozprofileVQ3DxU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61019/devtools/browser/41baeb01-c251-4e93-8d11-b50daeb675ef
+1646412814522	Marionette	INFO	Listening on port 61026
+1646412814645	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1646413218180	Marionette	INFO	Stopped listening on port 61026
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1646413232328	geckodriver	INFO	Listening on 127.0.0.1:61421
+1646413235398	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61422" "-no-remote" "-profile" "C:\\Users\\SRAVAN~1\\AppData\\Local\\Temp\\rust_mozprofile1sBK20"
+1646413235799	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sravanthi\\AppData\\Local\\Temp\\rust_mozprofile1sBK20\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61422/devtools/browser/e74104a4-128b-4648-b297-4c41366732c5
+1646413238806	Marionette	INFO	Listening on port 61429
+1646413239084	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.flipkart.com"
+1646413276486	Marionette	INFO	Stopped listening on port 61429
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1646413298518	geckodriver	INFO	Listening on 127.0.0.1:61583
+1646413301617	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61584" "-no-remote" "-profile" "C:\\Users\\SRAVAN~1\\AppData\\Local\\Temp\\rust_mozprofilehix5DZ"
+1646413302196	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sravanthi\\AppData\\Local\\Temp\\rust_mozprofilehix5DZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61584/devtools/browser/331c7b3e-e760-4d80-8b90-1e3a5fce0249
+1646413305223	Marionette	INFO	Listening on port 61590
+1646413305323	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.flipkart.com"
+1646413360441	Marionette	INFO	Stopped listening on port 61590
+1646413399866	geckodriver	INFO	Listening on 127.0.0.1:61764
+1646413402967	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61765" "-no-remote" "-profile" "C:\\Users\\SRAVAN~1\\AppData\\Local\\Temp\\rust_mozprofileiYYfon"
+1646413403483	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sravanthi\\AppData\\Local\\Temp\\rust_mozprofileiYYfon\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61765/devtools/browser/eae4c610-981e-48df-a0f3-836556a7f72d
+1646413406472	Marionette	INFO	Listening on port 61771
+1646413406667	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.flipkart.com"
+1646413444809	Marionette	INFO	Stopped listening on port 61771
+1646413647145	geckodriver	INFO	Listening on 127.0.0.1:62033
+1646413650246	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62034" "-no-remote" "-profile" "C:\\Users\\SRAVAN~1\\AppData\\Local\\Temp\\rust_mozprofileVhiKvG"
+1646413650689	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sravanthi\\AppData\\Local\\Temp\\rust_mozprofileVhiKvG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62034/devtools/browser/0f579e55-79bb-4898-af1e-1bd0b4e75576
+1646413653837	Marionette	INFO	Listening on port 62040
+1646413653979	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.flipkart.com"
+1646413673097	Marionette	INFO	Stopped listening on port 62040
+1646413691040	geckodriver	INFO	Listening on 127.0.0.1:62167
+1646413694139	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62169" "-no-remote" "-profile" "C:\\Users\\SRAVAN~1\\AppData\\Local\\Temp\\rust_mozprofileHzLIOK"
+1646413694588	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sravanthi\\AppData\\Local\\Temp\\rust_mozprofileHzLIOK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62169/devtools/browser/4e802904-32fb-4f37-8117-dd03d35df86c
+1646413697861	Marionette	INFO	Listening on port 62177
+1646413698377	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.flipkart.com"
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1646413801883	Marionette	INFO	Stopped listening on port 62177
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1646413902759	geckodriver	INFO	Listening on 127.0.0.1:62457
+1646413905868	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62458" "-no-remote" "-profile" "C:\\Users\\SRAVAN~1\\AppData\\Local\\Temp\\rust_mozprofile4Pt0Ng"
+1646413906361	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sravanthi\\AppData\\Local\\Temp\\rust_mozprofile4Pt0Ng\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62458/devtools/browser/c0b5bd93-81a4-48f0-a7dd-24c60a1f489d
+1646413909646	Marionette	INFO	Listening on port 62464
+1646413910086	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.flipkart.com"
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1646414063521	Marionette	INFO	Stopped listening on port 62464
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1646414107575	geckodriver	INFO	Listening on 127.0.0.1:62687
+1646414110680	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62688" "-no-remote" "-profile" "C:\\Users\\SRAVAN~1\\AppData\\Local\\Temp\\rust_mozprofilexmrmdD"
+1646414111149	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sravanthi\\AppData\\Local\\Temp\\rust_mozprofilexmrmdD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62688/devtools/browser/60205062-9a49-4f15-b478-2df450d33e6d
+1646414114077	Marionette	INFO	Listening on port 62696
+1646414114388	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.flipkart.com"
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.flipkart.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.flipkart.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1646414246782	Marionette	INFO	Stopped listening on port 62696
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646414333704	geckodriver	INFO	Listening on 127.0.0.1:62965
+1646414336819	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62966" "-no-remote" "-profile" "C:\\Users\\SRAVAN~1\\AppData\\Local\\Temp\\rust_mozprofilex9abOn"
+1646414337325	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sravanthi\\AppData\\Local\\Temp\\rust_mozprofilex9abOn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62966/devtools/browser/2b2e4a4e-4206-4b46-a9b3-301d610c904e
+1646414340184	Marionette	INFO	Listening on port 62972
+1646414340519	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1646414465182	Marionette	INFO	Stopped listening on port 62972
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1646414545321	geckodriver	INFO	Listening on 127.0.0.1:63170
+1646414548419	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63171" "-no-remote" "-profile" "C:\\Users\\SRAVAN~1\\AppData\\Local\\Temp\\rust_mozprofile3ZqM7M"
+1646414548917	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sravanthi\\AppData\\Local\\Temp\\rust_mozprofile3ZqM7M\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63171/devtools/browser/34e8fd79-eabe-4824-82de-41140134acad
+1646414552069	Marionette	INFO	Listening on port 63177
+1646414552134	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.flipkart.com"
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1646414621140	Marionette	INFO	Stopped listening on port 63177
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1646754659719	geckodriver	INFO	Listening on 127.0.0.1:65215
+1646754662783	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65216" "-no-remote" "-profile" "C:\\Users\\SRAVAN~1\\AppData\\Local\\Temp\\rust_mozprofiledRI3Pq"
+1646754663778	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sravanthi\\AppData\\Local\\Temp\\rust_mozprofiledRI3Pq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65216/devtools/browser/30218050-5682-40aa-917d-2f3a43b5c6e3
+1646754666871	Marionette	INFO	Listening on port 65223
+1646754666970	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1646755073230	Marionette	INFO	Stopped listening on port 65223
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646755438199	geckodriver	INFO	Listening on 127.0.0.1:49621
+1646755441281	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49622" "-no-remote" "-profile" "C:\\Users\\SRAVAN~1\\AppData\\Local\\Temp\\rust_mozprofile9CbSfE"
+1646755441629	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sravanthi\\AppData\\Local\\Temp\\rust_mozprofile9CbSfE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49622/devtools/browser/28c9c6ec-c3f0-49a1-bb9a-c9bbbacd3ade
+1646755444261	Marionette	INFO	Listening on port 49627
+1646755444453	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1646756741592	Marionette	INFO	Stopped listening on port 49627
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1647084747325	geckodriver	INFO	Listening on 127.0.0.1:62924
+1647084750403	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62925" "-no-remote" "-profile" "C:\\Users\\SRAVAN~1\\AppData\\Local\\Temp\\rust_mozprofileJqPyVd"
+1647084751528	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sravanthi\\AppData\\Local\\Temp\\rust_mozprofileJqPyVd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62925/devtools/browser/0e37e290-80cb-4b8d-9eff-ec4fc467cadf
+1647084754786	Marionette	INFO	Listening on port 62930
+1647084755275	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.flipkart.com"
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE

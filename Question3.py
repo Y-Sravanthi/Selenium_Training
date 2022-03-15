@@ -1,0 +1,23 @@
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+
+driver=webdriver.Chrome(r"C:\Users\Sravanthi\Desktop\Selenium_Training\chromedriver.exe")
+driver.get("https://www.bestundertaking.net/NewConnection.aspx")
+driver.find_element(By.XPATH,"//*[@id='ctl00_Contentplaceholder2_rbConnType_0']").send_keys("Permanent")
+driver.find_element(By.XPATH,"//*[@id='ctl00_Contentplaceholder2_ddlTitle']").send_keys("Ms")
+driver.find_element(By.XPATH,"//*[@id='ctl00_Contentplaceholder2_txtFirstName']").send_keys("Yernagu")
+driver.find_element(By.XPATH,"//*[@id='ctl00_Contentplaceholder2_txtLastName']").send_keys("Supraja")
+driver.find_element(By.XPATH,"//*[@id='ctl00_Contentplaceholder2_txtmail']").send_keys("yernagu.supraja@gmail.com")
+driver.find_element(By.XPATH,"//*[@id='ctl00_Contentplaceholder2_txtMobile']").send_keys("9705121800")
+driver.find_element(By.XPATH,"//*[@id='ctl00_Contentplaceholder2_txtRefACCNO']").send_keys("137197131")
+driver.find_element(By.XPATH,"//*[@id='ctl00_Contentplaceholder2_txtRoom']").send_keys("25")
+driver.find_element(By.XPATH,"//*[@id='ctl00_Contentplaceholder2_txtFloor']").send_keys("2")
+driver.find_element(By.XPATH,"//*[@id='ctl00_Contentplaceholder2_txtWing']").send_keys("A")
+driver.find_element(By.XPATH,"//*[@id='ctl00_Contentplaceholder2_txtBldgNo']").send_keys("1")
+driver.find_element(By.XPATH,"//*[@id='ctl00_Contentplaceholder2_txtBldgName']").send_keys("Balaji")
+driver.find_element(By.XPATH,"//*[@id='ctl00_Contentplaceholder2_txtPlot']").send_keys("22")
+driver.find_element(By.XPATH,"//*[@id='ctl00_Contentplaceholder2_ddlPIN']").send_keys("400011")
+driver.find_element(By.XPATH,"//*[@id='ctl00_Contentplaceholder2_ddlArea']").send_keys("JACOB CIRCLE")
+driver.find_element(By.XPATH,"//*[@id='ctl00_Contentplaceholder2_ddlRoad']").send_keys("10TH SOUTER STREET")
+#driver.implicitly_wait(20)
+#driver.close()
