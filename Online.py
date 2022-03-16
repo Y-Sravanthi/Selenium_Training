@@ -14,6 +14,7 @@ try:
     driver2=driver.find_element(By.XPATH,"//*[@id='center_column']/ul/li/div/div[2]/div[2]/a[1]").click()
     #actions.click(driver2)
     actions.perform()
+    driver.find_element(By.XPATH,"//*[@id='layer_cart']/div[1]/div[2]/div[4]/a").click()
 except Exception():
     print("Fail in something")
 finally:
