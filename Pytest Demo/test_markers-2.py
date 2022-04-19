@@ -11,5 +11,7 @@ def test_login():
 def test_addproducts():
     print("Add products")
 
+@pytest.mark.xfail
 def test_logout():
+    assert False
     print("Logged out")
